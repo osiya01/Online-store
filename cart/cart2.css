@@ -1,0 +1,17 @@
+.addCartBtn{
+    position: relative;
+    bottom: 92px;
+    padding: 10px;
+    width: 380px;
+    border: none;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.356);
+    border: none;
+    transition: all 0.3s ease;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+.addCartBtn:hover {
+    opacity: 1;
+}
