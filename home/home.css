@@ -25,7 +25,7 @@ nav :first-child{
 nav a{
     font-family:Arial, Helvetica, sans-serif;
     font-size: 14px;
-    color: white;
+    color: rgb(251, 234, 234);
     text-decoration: none;
     margin-right: 20px;
     padding: 6px 10px; 
